@@ -6,8 +6,7 @@
 
 ## 專案簡介
 
-這個專案將 **Hand Tracking / 手勢偵測** 技術與經典遊戲 **Flappy Bird** 結合，讓玩家可以透過手部動作來控制遊戲角色跳躍。  
-適合作為 AI / 電腦視覺應用的示範專案，展現如何把即時影像處理技術應用在互動遊戲之上。
+這個專案將 **Hand Tracking / 手勢偵測** 技術與經典遊戲 **Flappy Bird** 結合，讓玩家可以透過手部動作來控制遊戲角色上下移動。  
 
 ---
 
@@ -30,5 +29,4 @@
 ---
 
 
-- 作者：DerrickLin  
-- GitHub：[DerrickLin](https://github.com/DerrickLin)
+- [遊戲Demo影片連結]([https://github.com/DerrickLin](https://drive.google.com/file/d/1TowThK1e_cqdB7ngENyQg-9_vSkIdkB0/view?usp=drive_link))
