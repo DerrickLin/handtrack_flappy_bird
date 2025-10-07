@@ -29,4 +29,4 @@
 ---
 
 
-- [遊戲Demo影片連結](https://github.com/DerrickLin](https://drive.google.com/file/d/1TowThK1e_cqdB7ngENyQg-9_vSkIdkB0/view?usp=drive_link)
+- [遊戲Demo影片連結](https://drive.google.com/file/d/1TowThK1e_cqdB7ngENyQg-9_vSkIdkB0/view?usp=drive_link)
